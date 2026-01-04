@@ -29,7 +29,7 @@ The project was built using the following technologies:
 | **Connectivity**| MySQL Connector (v4.0) |
 
 ## 📸 Screenshots
-*(Add your project screenshots here. Example: `![Login Screen](path/to/image.png)`)*
+![Login Screen](Login.jpg)
 
 ## 🚀 Getting Started
 
